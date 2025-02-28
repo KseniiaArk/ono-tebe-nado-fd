@@ -1,15 +1,15 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    margin: 0;
-    background-color: #FFF;
-    font-family: 'Raleway', sans-serif;
+  margin: 0;
+  background-color: #fff;
+  font-family: "Raleway", sans-serif;
 }
 
 a {
-    color: #000;
+  color: #000;
 }
 
 h1,
@@ -22,6 +22,6 @@ p,
 ul,
 ol,
 blockquote {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
